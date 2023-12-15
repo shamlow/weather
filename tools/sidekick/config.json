@@ -1,9 +1,9 @@
 {
-  "project": "WKND",
+  "project": "Scotts Custom Demo",
   "plugins": [
     {
       "id": "library",
-      "title": "Library",
+      "title": "Scott's Library",
       "environments": [ "edit" ],
       "url": "/tools/sidekick/library.html",
       "includePaths": [ "**.docx**" ]
