@@ -3,9 +3,9 @@
 
 .featured-article {
     display: flex;
-    flex-direction: row;
+    flex-direction: row-reverse;
     flex-wrap: wrap;
-    width: 50%;
+    width: 100%;
     margin-bottom: 1em;
 }
 
