@@ -1,5 +1,5 @@
-# Edge Delivery Services - WKND Demo
-Codebase for the fictional WKND site, showcasing the capabilities of Adobe's Edge Delivery Services. Highlights include:
+# Edge Delivery Services - Scott's custom demo, based on the boilerplate WKND Demo
+Codebase from the fictional WKND site, showcasing the capabilities of Adobe's Edge Delivery Services. Highlights include:
 
 - Experimentation capabilities 
 - Conversion tracking
@@ -7,8 +7,8 @@ Codebase for the fictional WKND site, showcasing the capabilities of Adobe's Edg
 - Document based content authoring
 
 ## Environments
-- Preview: https://main--wknd--shamlow.hlx.page/
-- Live: https://main--wknd--shamlow.hlx.live/
+- Preview: https://main--custom-wknd--shamlow.hlx.page/
+- Live: https://main--custom-wknd--shamlow.hlx.live/
 
 ## Installation
 
