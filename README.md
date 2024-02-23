@@ -1,4 +1,4 @@
-# Edge Delivery Services - Scott's custom demo, based on the boilerplate WKND Demo
+# Edge Delivery Services - Scott's Weather Company demo, based on the boilerplate WKND Demo
 Codebase from the fictional WKND site, showcasing the capabilities of Adobe's Edge Delivery Services. Highlights include:
 
 - Experimentation capabilities 
@@ -7,8 +7,8 @@ Codebase from the fictional WKND site, showcasing the capabilities of Adobe's Ed
 - Document based content authoring
 
 ## Environments
-- Preview: https://main--custom-wknd--shamlow.hlx.page/
-- Live: https://main--custom-wknd--shamlow.hlx.live/
+- Preview: https://main--weather-com--shamlow.hlx.page/
+- Live: https://main--weather-com--shamlow.hlx.live/
 
 ## Installation
 
